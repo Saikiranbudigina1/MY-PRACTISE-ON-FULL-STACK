@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    border: solid black;
+    text-align: center;
+}
+
+
+
+#head{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: #a0d2eb;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+}
+#h2{
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #e5eaf5;
+    display: block;
+}
+#div1{
+    width: 700px;
+    height: 100px;
+    display: inline-block;
+    text-align: center;
+    background-color: aliceblue;
+}
+#div2{
+    display:inline
+}
